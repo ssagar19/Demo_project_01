@@ -2,7 +2,7 @@
 Demo project created using Scratch
 
 <p>
-  <img src="https://ibb.co/j6FbjDs">
+  <a href="https://ibb.co/j6FbjDs"><img src="https://i.ibb.co/j6FbjDs/design-for-reactjs-assignment.jpg" alt="design-for-reactjs-assignment" border="0"></a>
 </p>
 
 # Hi, I'm Vivek Chauhan 👋
