@@ -10,3 +10,12 @@ Demo project created using Scratch
 - I love Doctor Who, The Umbrella Academy and Star Wars;
  - I'm left handed  :point_left: 
  - This drawing of me was a gift from my friend
+<br>
+<br>
+<br>
+
+# AN ATTEMPT TO CREATE SAME PAGE AS ABOVE 
+![React App (5)](https://user-images.githubusercontent.com/55043608/117178082-4e74d280-adef-11eb-8145-89a56adad9f0.png)
+
+![React App (4)](https://user-images.githubusercontent.com/55043608/117178120-56cd0d80-adef-11eb-9120-6c74fb64c369.png)
+
