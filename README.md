@@ -184,35 +184,67 @@ export default function Banner() {
 }
 ```
 
-# Videocomponent
+# Header
+
+```js
+<Header />
+```
 
 
 ![React App](https://user-images.githubusercontent.com/55043608/117179281-98aa8380-adf0-11eb-9073-db2f22d02e5c.png)
 
 
 ```js
-function Videocomponent() {
+export default function Header() {
+  var navStyle = {
+    padding: "20px",
+    display: "flex",
+    justifyContent: "space-between",
+    backgroundColor: "#1e616b",
+    alignItems: "center",
+    height: "100%",
+    color: "white",
+  };
+  var navLeft = {
+    fontSize: "14px",
+    display: "flex",
+    justifyContent: "center",
+    alignItems: "center",
+  };
+  var h1Style = {
+    fontSize: "18px",
+  };
+  var h2Style = {
+    fontSize: "14px",
+  };
+
   return (
-    <div className="videoComponent">
-      <ReactPlayer
-        width="100%"
-        height="60vh"
-        controls
-        url="https://www.youtube.com/watch?v=SMKPKGW083c"
-      />
+    <div
+      style={{
+        height: "65px",
+      }}
+    >
+      <nav style={navStyle}>
+        <div>
+          <h1 style={h1Style}>
+            ASP Micriservices with .NET Core for Developers
+          </h1>
+          <h2 style={h2Style}> Communication between microservices</h2>
+        </div>
+        <div style={navLeft}>
+          <h2 style={{ paddingRight: "10px" }}>Leave a review</h2>
+          <div style={{ paddingRight: "10px" }}>
+            <ThumbUpAltIcon />
+          </div>
+          <div style={{ paddingRight: "10px" }}>
+            <BookmarkBorderIcon />
+          </div>
+        </div>
+      </nav>
     </div>
   );
 }
 ```
 
-<br>
-
-![React App (1)](https://user-images.githubusercontent.com/55043608/117179286-99431a00-adf0-11eb-9bca-104f9baeb6c8.png)
-<br>
-![React App (5)](https://user-images.githubusercontent.com/55043608/117178082-4e74d280-adef-11eb-8145-89a56adad9f0.png)
-
-<br>
-<br>
-<br>
 
 
