@@ -70,6 +70,64 @@ function Sidebar() {
 }
 
 ```
+<br>
+<br>
+
+
+
+
+```js
+<Banner />
+```
+![React App (1)](https://user-images.githubusercontent.com/55043608/117179286-99431a00-adf0-11eb-9bca-104f9baeb6c8.png)
+
+```js
+export default function Banner() {
+  return (
+    <div
+      style={{
+        width: "100%",
+        height: "60px",
+        display: "flex",
+        justifyContent: "center",
+        backgroundColor: "blanchedalmond",
+        boxShadow:
+          "rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px",
+      }}
+    >
+      <div
+        style={{
+          width: "70%",
+          height: "100%",
+          padding: "10px",
+          display: "flex",
+          justifyContent: "space-evenly",
+          alignItems: "center",
+          color: "grey",
+        }}
+      >
+        <div>
+          <PictureInPictureIcon />
+          Overview
+        </div>
+        <div>
+          <QuestionAnswerIcon />
+          QnA
+        </div>
+        <div>
+          <MenuBookIcon />
+          Notebook
+        </div>
+        <div>
+          <NotesIcon />
+          Transcript
+        </div>
+      </div>
+    </div>
+  );
+}
+
+```
 
 ![React App (3)](https://user-images.githubusercontent.com/55043608/117179216-86c8e080-adf0-11eb-96bf-2bb8087bd898.png)
 <br>
