@@ -10,6 +10,9 @@ Demo project created using Scratch
  - ReactVideoCard Component
 - Vanilla CSS
 
+# MY ATTEMPT 
+![React App (6)](https://user-images.githubusercontent.com/55043608/117178933-318ccf00-adf0-11eb-8f9f-16c030a44632.png)
+
 ### :star: Components Created from Scratch!
 ```js
 <Sidebar />
@@ -35,7 +38,6 @@ Demo project created using Scratch
 # AN ATTEMPT TO CREATE SAME PAGE AS ABOVE 
 <br>
 <br>
-![React App (6)](https://user-images.githubusercontent.com/55043608/117178933-318ccf00-adf0-11eb-8f9f-16c030a44632.png)
 
 
 <br>
