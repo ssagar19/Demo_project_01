@@ -33,17 +33,12 @@ Demo project created using Scratch
 
 <br>
 <br>
-<br>
-
-
-# AN ATTEMPT TO CREATE SAME PAGE AS ABOVE 
-<br>
-<br>
 
 
 <br>
 <br>
-# COMPONENTS USED - :
+
+#  :star:  COMPONENTS USED - :
 <br>
 <br>
 
