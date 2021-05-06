@@ -1,5 +1,6 @@
 
-# Demo_project_01
+#  :star: Demo_project_01
+<br>
 Demo project created using Scratch
 
 ![design_for_reactjs_assignment](https://user-images.githubusercontent.com/55043608/117166761-4c594680-ade4-11eb-8524-2e729deba196.jpg)
@@ -10,7 +11,7 @@ Demo project created using Scratch
  - ReactVideoCard Component
 - Vanilla CSS
 
-# MY ATTEMPT 
+#   :star:  MY ATTEMPT 
 ![React App (6)](https://user-images.githubusercontent.com/55043608/117178933-318ccf00-adf0-11eb-8f9f-16c030a44632.png)
 
 ### :star: Components Created from Scratch!
