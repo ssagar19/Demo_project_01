@@ -5,8 +5,7 @@
 
 ## Demo project created using Scratch
 
-<br>
-<br>
+
 ![design_for_reactjs_assignment](https://user-images.githubusercontent.com/55043608/117166761-4c594680-ade4-11eb-8524-2e729deba196.jpg)
 
 ### :star: Technology Used!
@@ -83,9 +82,9 @@ function Sidebar() {
 ```js
 <Banner />
 ```
-<br>
+
 ![React App (1)](https://user-images.githubusercontent.com/55043608/117179286-99431a00-adf0-11eb-9bca-104f9baeb6c8.png)
-<br>
+
 ```js
 export default function Banner() {
   return (
