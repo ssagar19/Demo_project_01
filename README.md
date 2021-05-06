@@ -14,6 +14,14 @@
  - ReactVideoCard Component
 - Vanilla CSS
 
+<br>
+
+### :star: How To USE!
+- yarn;
+ - yarn start
+ - ReactVideoCard Component
+- Vanilla CSS
+
 #   :star:  MY ATTEMPT 
 ![React App (6)](https://user-images.githubusercontent.com/55043608/117178933-318ccf00-adf0-11eb-8f9f-16c030a44632.png)
 
@@ -137,53 +145,8 @@ export default function Banner() {
 <br>
 
 <br>
-```js
-export default function Banner() {
-  return (
-    <div
-      style={{
-        width: "100%",
-        height: "60px",
-        display: "flex",
-        justifyContent: "center",
-        backgroundColor: "blanchedalmond",
-        boxShadow:
-          "rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px",
-      }}
-    >
-      <div
-        style={{
-          width: "70%",
-          height: "100%",
-          padding: "10px",
-          display: "flex",
-          justifyContent: "space-evenly",
-          alignItems: "center",
-          color: "grey",
-        }}
-      >
-        <div>
-          <PictureInPictureIcon />
-          Overview
-        </div>
-        <div>
-          <QuestionAnswerIcon />
-          QnA
-        </div>
-        <div>
-          <MenuBookIcon />
-          Notebook
-        </div>
-        <div>
-          <NotesIcon />
-          Transcript
-        </div>
-      </div>
-    </div>
-  );
-}
-```
 
+     
 # Header
 
 ```js
