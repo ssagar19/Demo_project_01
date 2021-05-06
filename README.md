@@ -183,9 +183,12 @@ export default function Banner() {
   );
 }
 ```
+
+# Videocomponent
+
+
 ![React App](https://user-images.githubusercontent.com/55043608/117179281-98aa8380-adf0-11eb-9073-db2f22d02e5c.png)
-<br>
-<br>
+
 
 ```js
 function Videocomponent() {
@@ -200,8 +203,8 @@ function Videocomponent() {
     </div>
   );
 }
-
 ```
+
 <br>
 
 ![React App (1)](https://user-images.githubusercontent.com/55043608/117179286-99431a00-adf0-11eb-9bca-104f9baeb6c8.png)
