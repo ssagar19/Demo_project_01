@@ -10,7 +10,7 @@ Demo project created using Scratch
  - ReactVideoCard Component
 - Vanilla CSS
 
-### :star: Components!
+### :star: Components Created from Scratch!
 ```js
 <Sidebar />
 ```
@@ -33,16 +33,20 @@ Demo project created using Scratch
 
 
 # AN ATTEMPT TO CREATE SAME PAGE AS ABOVE 
+<br>
+<br>
 ![React App (6)](https://user-images.githubusercontent.com/55043608/117178933-318ccf00-adf0-11eb-8f9f-16c030a44632.png)
-
-
-
-
 
 
 <br>
 <br>
 # COMPONENTS USED - :
+<br>
+<br>
+```js
+<Sidebar />
+```
+<br>
 
 ![React App (2)](https://user-images.githubusercontent.com/55043608/117179145-74e73d80-adf0-11eb-8a35-c2a1448c1187.png)
 <br>
@@ -67,13 +71,11 @@ function Sidebar() {
   );
 }
 
-export default Sidebar;
-
 ```
 
 ![React App (3)](https://user-images.githubusercontent.com/55043608/117179216-86c8e080-adf0-11eb-96bf-2bb8087bd898.png)
 <br>
-<br>
+
 <br>
 ```js
 export default function Banner() {
