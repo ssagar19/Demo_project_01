@@ -43,13 +43,13 @@ Demo project created using Scratch
 # COMPONENTS USED - :
 <br>
 <br>
+
 ```js
 <Sidebar />
 ```
-<br>
+
 
 ![React App (2)](https://user-images.githubusercontent.com/55043608/117179145-74e73d80-adf0-11eb-8a35-c2a1448c1187.png)
-<br>
 <br>
 <br>
 ```js
