@@ -39,11 +39,13 @@ export default function Header() {
           <h2 style={h2Style}> Communication between microservices</h2>
         </div>
         <div style={navLeft}>
-          <h2 style={{ paddingRight: "10px" }}>Leave a review</h2>
-          <div style={{ paddingRight: "10px" }}>
+          <h2 style={{ paddingRight: "15px", fontSize: "16px" }}>
+            Leave a review
+          </h2>
+          <div style={{ paddingRight: "15px" }}>
             <ThumbUpAltIcon />
           </div>
-          <div style={{ paddingRight: "10px" }}>
+          <div style={{ paddingRight: "15px" }}>
             <BookmarkBorderIcon />
           </div>
         </div>

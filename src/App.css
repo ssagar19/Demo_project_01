@@ -62,29 +62,44 @@ text-decoration: underline;
     cursor: pointer;
     background-color: #293846;
 }
-.cards{
 
-height: 100px;
-display: flex;
-justify-content: center;
-width: 400px;
-padding-top: 30px;
-border-radius: 6px;
+
+.aligner{
+    padding-left: 10px;
+    position: relative;
+    bottom: 7px;
+}
+.circleImg{
+    border-radius: 50%;
 
 }
 .bottom{
-    /* display: none; */
-    width: auto;
-    text-align: center;
-    margin: 10px auto;
-    background-color: rgb(231, 204, 163);
+    height: 150px;
+    width: 100%;
+    margin-top: 10px;
+    background-color: rgb(241, 241, 241);
 }
-.cards h1{
-    color: white;
-    font-size: 16px;
+.cards{
+    justify-content: flex-start;
+    height: 100%;
+    width:50%;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+    display: flex;
 }
-.cards h2{
-    color:black;
+.divider{
+    padding: 5px;
+    display: flex;
+}
+.leftCard span{
+    color: rgb(10, 160, 206);
     font-size: 12px;
-    font-weight: 800;
+    font-weight: bolder;
+    padding-left: 15px;
+     padding-bottom: 2px;
+}
+
+.leftCard .MuiSvgIcon-root {
+    color: grey;
+   
 }

@@ -12,7 +12,7 @@ export default function Banner() {
         height: "60px",
         display: "flex",
         justifyContent: "center",
-        backgroundColor: "blanchedalmond",
+        backgroundColor: "whitesmoke",
         boxShadow:
           "rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px",
       }}
@@ -30,19 +30,19 @@ export default function Banner() {
       >
         <div>
           <PictureInPictureIcon />
-          Overview
+          <span className="aligner">Overview</span>
         </div>
         <div>
           <QuestionAnswerIcon />
-          QnA
+          <span className="aligner">QnA</span>
         </div>
         <div>
           <MenuBookIcon />
-          Notebook
+          <span className="aligner">Notebook</span>
         </div>
         <div>
           <NotesIcon />
-          Transcript
+          <span className="aligner">Transcript</span>
         </div>
       </div>
     </div>
