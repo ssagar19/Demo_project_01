@@ -17,10 +17,23 @@
 <br>
 
 ### :star: How To USE!
-- yarn;
- - yarn start
- - ReactVideoCard Component
-- Vanilla CSS
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+- yarn : to dowload the packages;
+
+### `yarn start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+
 
 #   :star:  MY ATTEMPT 
 ![React App (6)](https://user-images.githubusercontent.com/55043608/117178933-318ccf00-adf0-11eb-8f9f-16c030a44632.png)
