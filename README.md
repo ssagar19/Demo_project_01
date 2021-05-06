@@ -31,7 +31,9 @@ Demo project created using Scratch
 <br>
 <br>
 <br>
-```{js} { var a = 9; }```
+```js
+ var a = 9
+```
 
 ![React App (3)](https://user-images.githubusercontent.com/55043608/117179216-86c8e080-adf0-11eb-96bf-2bb8087bd898.png)
 <br>
