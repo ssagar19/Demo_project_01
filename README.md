@@ -30,7 +30,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-- yarn : to dowload the packages;
+### `yarn` : to dowload the packages;
 
 ### `yarn start`
 
