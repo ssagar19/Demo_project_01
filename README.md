@@ -1,11 +1,7 @@
 
 
----
-
 #  :star: Reactpage
 ___
-
-<br>
 
 ## Quick-start 
 ---
