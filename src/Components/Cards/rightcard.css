@@ -1,0 +1,17 @@
+.rightcard-h1 {
+    font-size: 13px;
+    color: grey;
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 11px;
+    padding-bottom: 11px;
+    font-weight: 600;
+}
+.rightcard-h2 {
+    font-size: 13px;
+    color: black;
+    text-align: left;
+    padding-bottom: 2px;
+    padding-left: 10px;
+    font-weight: 600;
+}
